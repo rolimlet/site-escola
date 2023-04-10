@@ -1,7 +1,8 @@
-body {
-background-color: #383D58;
+header{
+     background-color: #f106d2;;
+     color: white;
 }
-header {
-    background-color: #383D58;
-    color: white;
-    }
+
+.cabeçario-imagem{
+  width:  20%;
+}
