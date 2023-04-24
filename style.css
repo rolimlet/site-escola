@@ -6,3 +6,5 @@ header{
 .cabeçario-imagem{
   width:  20%;
 }
+
+body{ background-color: rgb(107, 104, 104); } header{ background-color: rgb(235, 136, 136) }
